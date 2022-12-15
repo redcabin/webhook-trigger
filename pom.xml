@@ -11,7 +11,7 @@
 		<findbugs.failOnError>false</findbugs.failOnError>
 		<jenkins.version>2.89.4</jenkins.version>
         <scm-api.version>2.2.6</scm-api.version>
-        <git-plugin.version>3.6.0</git-plugin.version>
+        <git-plugin.version>4.11.5</git-plugin.version>
 		<maven.javadoc.skip>true</maven.javadoc.skip>
 		<violations.version>1.18</violations.version>
 	</properties>
